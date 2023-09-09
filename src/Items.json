@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "name": "Chair",
+      "image": "https://www.ikea.com/us/en/images/products/poaeng-armchair-birch-veneer-knisa-light-beige__0571500_pe666933_s5.jpg?f=s",
+      "price": "49.99",
+      "number": "1",
+      "description": "A comfortable and stylish chair suitable for home or office use."
+    },
+    {
+      "name": "Laptop",
+      "image": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-gaming-3-gen-6-15-amd-subseries-hero.png?context=bWFzdGVyfHJvb3R8MTk5NTg0fGltYWdlL3BuZ3xoZmIvaGRiLzE0MTkwNDY2MzY3NTE4LnBuZ3xlMzY3ZDNhMWI3NGI3MjNjZDhkYjQzYWQ2ZjQ0MThiYjg0ZTlhYzUzYzM2MmNhMzVhZmJmOWJiNGE4OThmZTRi",
+      "price": "999.99",
+      "number": "1",
+      "description": "A powerful and portable computing device for work and entertainment on the go."
+    },
+    {
+      "name": "Cup",
+      "image": "https://www.acmecups.com.au/cdn/shop/products/DP-1017-TulipCup170ml-Dolphin-Cropped_c8b3b68e-a77a-4a8b-9f51-6372abe07f08.jpg?v=1588930949",
+      "price": "4.99",
+      "number": "1",
+      "description": "A practical and durable cup for enjoying your favorite beverages."
+    },
+    {
+      "name": "Tree",
+      "image": "https://dictionary.cambridge.org/it/images/thumb/tree_noun_001_18152.jpg?version=5.0.328",
+      "price": "149.99",
+      "number": "1",
+      "description": "A beautiful and lush tree to enhance the aesthetics of your indoor or outdoor space."
+    },
+    {
+      "name": "Book",
+      "image": "https://www.collinsdictionary.com/images/thumb/book_181404689_250.jpg?version=4.0.317",
+      "price": "19.99",
+      "number": "1",
+      "description": "An engaging and informative book to expand your knowledge or entertain your imagination."
+    },
+    {
+      "name": "Car",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "29999.99",
+      "number": "1",
+      "description": "A sleek and reliable automobile for comfortable transportation and enjoyable drives."
+    },
+    {
+      "name": "Bicycle",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "399.99",
+      "number": "1",
+      "description": "A versatile and eco-friendly mode of transportation for commuting or leisurely rides."
+    },
+    {
+      "name": "Clock",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "29.99",
+      "number": "1",
+      "description": "A stylish and reliable clock to keep track of time in your home or office."
+    },
+    {
+      "name": "Table",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "79.99",
+      "number": "1",
+      "description": "A functional and sturdy table for various activities, such as dining or working."
+    },
+    {
+      "name": "Shoes",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "59.99",
+      "number": "1",
+      "description": "Stylish and comfortable shoes to complement your outfit and provide all-day comfort."
+    },
+    {
+      "name": "Camera",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "499.99",
+      "number": "1",
+      "description": "A high-quality camera to capture and preserve your precious moments with stunning clarity."
+    },
+    {
+      "name": "Pizza",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "9.99",
+      "number": "1",
+      "description": "A delicious and mouthwatering pizza with a variety of toppings to satisfy your cravings."
+    },
+    {
+      "name": "Guitar",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "299.99",
+      "number": "1",
+      "description": "A versatile and melodic musical instrument for beginners and experienced players alike."
+    },
+    {
+      "name": "Sunglasses",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "39.99",
+      "number": "1",
+      "description": "Stylish and UV-protective sunglasses to shield your eyes and enhance your fashion statement."
+    },
+    {
+      "name": "Bed",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "499.99",
+      "number": "1",
+      "description": "A comfortable and cozy bed for a restful night's sleep and rejuvenating mornings."
+    },
+    {
+      "name": "Phone",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "699.99",
+      "number": "1",
+      "description": "A feature-rich and advanced smartphone for staying connected and enjoying various multimedia."
+    },
+    {
+      "name": "Hat",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "14.99",
+      "number": "1",
+      "description": "A stylish and practical hat to protect you from the sun or complement your fashion ensemble."
+    },
+    {
+      "name": "Knife",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "9.99",
+      "number": "1",
+      "description": "A sharp and reliable knife for effortless food preparation and culinary tasks."
+    },
+    {
+      "name": "Plant",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "24.99",
+      "number": "1",
+      "description": "A beautiful and low-maintenance plant to add a touch of nature and freshness to your space."
+    },
+    {
+      "name": "Bag",
+      "image": "https://asia.olympus-imaging.com/content/000107506.jpg",
+      "price": "49.99",
+      "number": "1",
+      "description": "A spacious and stylish bag to carry your essentials with convenience and flair."
+    }
+  ]
+}
